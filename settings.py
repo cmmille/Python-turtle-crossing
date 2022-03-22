@@ -1,0 +1,2 @@
+DIMEN = 600
+MAX = DIMEN / 2
